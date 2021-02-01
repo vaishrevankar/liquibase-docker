@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./gradlew tasks dev update
+./gradlew tasks update
